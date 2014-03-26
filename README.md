@@ -1,4 +1,0 @@
-workshopdemo
-============
-
-My awesome website
